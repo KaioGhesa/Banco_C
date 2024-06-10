@@ -1,0 +1,14 @@
+C:\Curso Udemy\Banco_C#\bin\Debug\net8.0\Banco_C#.exe
+C:\Curso Udemy\Banco_C#\bin\Debug\net8.0\Banco_C#.deps.json
+C:\Curso Udemy\Banco_C#\bin\Debug\net8.0\Banco_C#.runtimeconfig.json
+C:\Curso Udemy\Banco_C#\bin\Debug\net8.0\Banco_C#.dll
+C:\Curso Udemy\Banco_C#\bin\Debug\net8.0\Banco_C#.pdb
+C:\Curso Udemy\Banco_C#\obj\Debug\net8.0\Banco_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy\Banco_C#\obj\Debug\net8.0\Banco_C#.AssemblyInfoInputs.cache
+C:\Curso Udemy\Banco_C#\obj\Debug\net8.0\Banco_C#.AssemblyInfo.cs
+C:\Curso Udemy\Banco_C#\obj\Debug\net8.0\Banco_C#.csproj.CoreCompileInputs.cache
+C:\Curso Udemy\Banco_C#\obj\Debug\net8.0\Banco_C#.dll
+C:\Curso Udemy\Banco_C#\obj\Debug\net8.0\refint\Banco_C#.dll
+C:\Curso Udemy\Banco_C#\obj\Debug\net8.0\Banco_C#.pdb
+C:\Curso Udemy\Banco_C#\obj\Debug\net8.0\Banco_C#.genruntimeconfig.cache
+C:\Curso Udemy\Banco_C#\obj\Debug\net8.0\ref\Banco_C#.dll
